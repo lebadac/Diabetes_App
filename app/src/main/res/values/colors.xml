@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="diabetes_color">#F07474</color> <!-- Red color for Diabetes -->
+    <color name="not_diabetes_color">#E0F2F1</color> <!-- Green color for Not Diabetes -->
 </resources>
