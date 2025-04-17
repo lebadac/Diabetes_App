@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diabetes</string>
+    <string-array name="gender_array">
+        <item>Nam</item>
+        <item>Nữ</item>
+        <item>Khác</item>
+    </string-array>
+
+    <string-array name="smoking_history_array">
+        <item>No Info</item>
+        <item>never</item>
+        <item>former</item>
+        <item>not current</item>
+        <item>ever</item>
+        <item>current</item>
+    </string-array>
+
+</resources>
