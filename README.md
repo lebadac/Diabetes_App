@@ -15,5 +15,5 @@ This Android app allows users to predict the likelihood of having diabetes based
 ## Demo
 
 <div align="center">
-  <img src="video_demo.mov" alt="Diabetes App Demo" width="500" />
+  <img src="diabetes_demo.gif" alt="Diabetes App Demo" width="500" />
 </div>
